@@ -1,4 +1,17 @@
 body {
     font-family: Arial;
-    color: blueviolet;
+    color: #333;
+    
+}
+
+#container {
+    width: 60%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #ddd;
+    margin: 10px auto;
+}
+
+#container h1 {
+    font-size: 30px;
 }
