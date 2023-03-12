@@ -4,12 +4,20 @@ body {
     
 }
 
+#cabecera {
+    background: #33a;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
 #container {
     width: 60%;
     padding: 1em;
     text-align: center;
     border: 1px solid #ddd;
-    margin: 10px auto;
+    margin: 0 auto;
 }
 
 #container h1 {
